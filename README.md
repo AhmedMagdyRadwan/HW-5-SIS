@@ -1,5 +1,7 @@
 # HW-5-SIS
 
+Abstract:
+
 This Repository contains the following items:
 
 1- My code that i used to move the robot and collect the data.
@@ -8,13 +10,20 @@ This Repository contains the following items:
 
 3- The raw data that is recorded  from the sensors onboard the robot during its motion.
 
-4- the codes and trajectory graphs.
+4- the data recived from my colleague.
+
+5- the codes and trajectory graphs generated after applying some algorithms.
 
 My colleague that i shared the data with him is: Bakhtawar Rehman.
 
-The robot that i built is a wall following robot, i choose ultrasonic sensor and gyroscope to be the onboard sensors for the robot, the robot depends on the readings from the ultrasonic sesnor to correct its path that it followsand its distance from the wall, during the motion of the robot the gyroscope records the angles resulted form the drifts that the robot took dueto the change of the direction of the wall from the horizontal to the vertical side.
 
-The data recorded from the sensors onboard the robot during its motion is expoted as excel file, and also the graph of this data is included in this repositiory.
+Introduction:
+
+The robot that i built is a wall following robot, i choose ultrasonic sensor and gyroscope to be the onboard sensors for the robot, the robot depends on the readings from the ultrasonic sesnor to correct its path that it follows and its distance from the wall, during the motion of the robot, the gyroscope records the angles resulted form the drifts that the robot took dueto the change of the direction of the wall from the horizontal to the vertical side.
+
+The data recorded from the sensors onboard the robot during its motion is exported as excel file, and also the graph of this data is included in this repositiory.
+
+
 
 
 
